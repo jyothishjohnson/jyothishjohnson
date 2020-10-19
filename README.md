@@ -1,8 +1,8 @@
 ### Hey there 👋
 
-- 🛠    I’m currently working on iOS apps
+- 🛠  Working on iOS apps
 
-- 📖  Currently learning Vapor
+- 📖   Currently learning Vapor
 
 - 👯  Open to collaborate
 
