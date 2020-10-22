@@ -2,11 +2,11 @@
 
 - 🛠  Working on iOS apps
 
-- 📖   Currently learning Vapor
+- 📖  Currently learning Vapor
 
 - 👯  Open to collaborate
 
-- 📮  Reach me here: jyothish.johnson123@gmail.com
+- 📮  Reach me at: jyothish.johnson123@gmail.com
 
 
 #### Follow me here 🏃‍♂️
