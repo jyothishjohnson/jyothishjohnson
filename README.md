@@ -6,7 +6,7 @@
 
 - 👯  Open to collaborate
 
-- 📮  Reach me at: jyothish.johnson123@gmail.com
+- 📮  Reach me at: jyothishjohnson.work@gmail.com
 
 
 #### Follow me here 🏃‍♂️
