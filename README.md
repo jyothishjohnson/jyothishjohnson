@@ -5,6 +5,8 @@
 - 📖  Currently learning Vapor
 
 - 👯  Open to collaborate
+ 
+- 🤯  Experimenting with SwiftUI
 
 - 📮  Reach me at: jyothishjohnson.work@gmail.com
 
