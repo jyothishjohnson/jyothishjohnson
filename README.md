@@ -8,7 +8,7 @@
  
 - 🤯  Experimenting with SwiftUI
 
-- 📮  Reach me at: jyothishjohnson.work@gmail.com
+- 📮  Reach me at: jyothish.johnson123@gmail.com
 
 
 #### Follow me here 🏃‍♂️
