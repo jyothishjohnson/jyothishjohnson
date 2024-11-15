@@ -1,17 +1,16 @@
 ### Hey there 👋
 
-- 🛠  Working on iOS apps
-
-- 📖  Currently learning Vapor
-
-- 👯  Open to collaborate
- 
-- 🤯  Experimenting with SwiftUI
+- 🛠  Working on [Sephora iOS app](https://apps.apple.com/us/app/sephora-us-makeup-skincare/id393328150)
 
 - 📮  Reach me at: jyothish.johnson123@gmail.com
 
 
 #### Follow me here 🏃‍♂️
+
+<h3> X - https://x.com/jyo_johnson</h3>
+<h3> Instagram - https://www.instagram.com/appledev76</h3>
+<h3> Blog - http://jyothishjohnson.medium.com/</h3>
+
 <a href="https://twitter.com/jyo_johnson">
   <img align="left" alt="Jyothish Johnson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
