@@ -3,6 +3,7 @@
 - 🛠  Working on [Sephora iOS app](https://apps.apple.com/us/app/sephora-us-makeup-skincare/id393328150)
 
 - 📮  Reach me at: jyothish.johnson123@gmail.com
+- ✍️ Blog: [jyothishjohnson.medium.com](http://jyothishjohnson.medium.com/)
 
 <!--
 #### Follow me here 🏃‍♂️
