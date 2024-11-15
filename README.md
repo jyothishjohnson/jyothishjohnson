@@ -4,7 +4,7 @@
 
 - 📮  Reach me at: jyothish.johnson123@gmail.com
 
-
+<!--
 #### Follow me here 🏃‍♂️
 
 <h3> X - https://x.com/jyo_johnson</h3>
@@ -23,5 +23,7 @@
 <a href="http://jyothishjohnson.medium.com/">
   <img align="left" alt="Jyothish's Medium Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+
+-->
 
 
